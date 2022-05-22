@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, Faculty of Engineering, King Mongkut's Institute of Technology Ladkrabang, 2019
-* B.Sc (Hons.) in Computer Science, Department of Computer Science, Dagon University, 2013
+* Ph.D in Electrical Engineering
+  * Faculty of Engineering, [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2019
+* B.Sc (Hons.) in Computer Science
+  * Department of Computer Science, [Dagon University](https://www.dagonuniversity.edu.mm/), 2013
 
 
 Work experience
@@ -43,7 +45,7 @@ Projects
      * Algorithms for Detection of Cancerous Cells on Miscoscope Images of Pleural Effusion, 2017-2019 <br/>
   * Detection of Infectious Diases on Chest X-rays
      * AI for detection of Tuberculosis, 2019 - Present
-     * * COVID-19 detectionusing Deep learning, 2021-Present <br/>
+     * COVID-19 detection using Deep learning, 2021-Present <br/>
      
 Honors & awards
 ======
