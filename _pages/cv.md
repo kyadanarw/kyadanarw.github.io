@@ -52,10 +52,14 @@ Projects
      
 Honors & awards
 ======
-* Best Paper Award (Journal of Bioinformatics and Neurosciences (JBINS), Applied Science and Computer Science Publications)
-* Student Travel Award at International Conference on Intelligent Informatics and BioMedical Sciences 2017, OIST, Japan
-* Best Presentation Award at Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
-* Fully Funded Ph.D scholarship at KMITL by AUN-SEED/NET and JICA
+* Best Paper Award 
+   * Journal of Bioinformatics and Neurosciences (JBINS), Applied Science and Computer Science Publications)
+* Student Travel Award
+   * International Conference on Intelligent Informatics and BioMedical Sciences 2017, OIST, Japan
+* Best Presentation Award
+   * Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
+* Fully Funded Ph.D scholarship at KMITL
+   * AUN-SEED/NET and JICA
 
 Research Laboratories
 ======
