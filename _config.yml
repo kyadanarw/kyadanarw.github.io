@@ -101,15 +101,15 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://www.linkedin.com/in/khin-yadanar-win-23606a131/"
-  linkedin         :
+  lastfm           : 
+  linkedin         :"https://www.linkedin.com/in/khin-yadanar-win-23606a131/"
   orcid            : "https://orcid.org/0000-0001-7155-9475"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
