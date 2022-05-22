@@ -6,5 +6,5 @@ paperurl: 'https://doi.org/10.3390/app10144916'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.3390/app112210528)
 
