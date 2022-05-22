@@ -1,4 +1,8 @@
-
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=3Bi3itoAAAAJ&vi ew_op=list_works&sortby=pubdate)<br/>
 
 ## Peer-Reviewed Journals
