@@ -43,11 +43,23 @@ Download [here](https://ieeexplore.ieee.org/document/8802562/)<br/>
 Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.__
 Download [here](https://ieeexplore.ieee.org/document/8609935/) <br/>
 
+[Artificial neural network based nuclei segmentation on cytology pleural effusion images](https://ieeexplore.ieee.org/document/8279748)__
+Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, “,” 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS); 11/2017.__
+Download [here](https://ieeexplore.ieee.org/document/8279748)<br/>
 
-(2)	Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, “Artificial neural network based nuclei segmentation on cytology pleural effusion images,” 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS); 11/2017, DOI:10.1109/ICIIBMS.2017.8279748
-(3)	Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, “K mean clustering based automated segmentation of overlapping cell nuclei in pleural effusion cytology images,” 2017 International Conference on Advanced Technologies for Communications (ATC); 10/2017, DOI:10.1109/ATC.2017.8167630
-(4)	Khin Yadanar Win, S.Choomchuay, K. Hamamoto, “Features Extraction from Segmented Cell Nuclei of Cytological Smear Images for Detection of Cancer Cells in Pleural Fluid,”  07/2017
-(5)	Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, “Automated segmentation and isolation of touching cell nuclei in cytopathology smear images of pleural effusion using distance transform watershed method,”  Second International Workshop on Pattern Recognition; 06/2017, DOI:10.1117/12.2280807
+[K mean clustering based automated segmentation of overlapping cell nuclei in pleural effusion cytology images](https://ieeexplore.ieee.org/document/8167630)__
+Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto,2017 International Conference on Advanced Technologies for Communications (ATC); 10/2017.__
+Download [herer](https://ieeexplore.ieee.org/document/8167630)<br/>
+
+[Features Extraction from Segmented Cell Nuclei of Cytological Smear Images for Detection of Cancer Cells in Pleural Fluid](https://scholar.google.co.th/citations?view_op=view_citation&hl=en&user=3Bi3itoAAAAJ&sortby=pubdate&citation_for_view=3Bi3itoAAAAJ:Y0pCki6q_DkC)__
+Khin Yadanar Win, S.Choomchuay, K. Hamamoto, 29th International Technical Conference on Circuit/Systems Computers and Communications (ITC-CSCC 2017), 07/2017.__
+Download [here](https://scholar.google.co.th/citations?view_op=view_citation&hl=en&user=3Bi3itoAAAAJ&sortby=pubdate&citation_for_view=3Bi3itoAAAAJ:Y0pCki6q_DkC)<br/>
+
+[Automated segmentation and isolation of touching cell nuclei in cytopathology smear images of pleural effusion using distance transform watershed method](https://doi.org/10.1117/12.2280807)__
+Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Second International Workshop on Pattern Recognition; 06/2017.__
+Download [here](https://doi.org/10.1117/12.2280807)<br/>
+
+
 (6)	Khin Yadanar Win, Somsak Choomchuay, “Automated segmentation of cell nuclei in cytology pleural fluid images using OTSU thresholding,” 2017 International Conference on Digital Arts, Media and Technology (ICDAMT); 01/2017, DOI:10.1109/ICDAMT.2017.7904925
 (7)	Khin Yadanar Win, S. Choomchuay, “Detection of Optic Disc and Exudates in Retinal Images,” AUN/SEED Conf. for Computer and Information Engineering (2016); 10/2016
 (8)	Khin Yadanar Win, Somsak Choomchuay, “Automated detection of exudates using histogram analysis for Digital Retinal Images,” 2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS); 10/2016, DOI:10.1109/ISPACS.2016.7824768.
