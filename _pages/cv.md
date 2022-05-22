@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+Personal Information
+======
+Name: Khin Yadanar Win
+Nationality: Myanmar
 
 Education
 ======
