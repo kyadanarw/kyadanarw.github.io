@@ -1,8 +1,4 @@
----
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+
 You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=3Bi3itoAAAAJ&vi ew_op=list_works&sortby=pubdate)<br/>
 
 ## Peer-Reviewed Journals
@@ -14,7 +10,7 @@ Download [here](https://doi.org/10.3390/app112210528)<br/>
 Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng,Applied Sciences, 2020, 10(17), p.5749.\
 Download [here](https://doi.org/10.3390/app10175749)<br/> 
 
-[Deep learning for optic disc segmentation and glaucoma diagnosis on retinal images](https://doi.org/10.3390/app10144916\
+[Deep learning for optic disc segmentation and glaucoma diagnosis on retinal images](https://doi.org/10.3390/app10144916)\
 Syna Sreng, Noppadol Maneerat, Kazuhiko Hamamoto and Win, Khin Yadanar Win,Applied Sciences, 2020, 10(14), p.4916.\
 Download [here](https://doi.org/10.3390/app10144916)<br/>
 
