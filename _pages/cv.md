@@ -20,13 +20,16 @@ Education
 Work experience
 ======
 * Aug 2019 to Present : Postdoctoral Researcher
-  * King Mongkut's Institute of Technology Ladkrabang
+  * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
+  * Duties Included: Design and Conduct the independent research and mentor undergraduate and graduate students
 <br/>
 * June 2019- December 2019: Part-time Lecture
-  * University of Yangon
+  * [University of Yangon](https://www.uy.edu.mm/)
+  * Duties Included: Teaching Image processing and Machine Learning, and supervising students' research projects
 <br/>
-* Jan 2015- Apr 2019: Teaching and Research Assistant
-  * King Mongkut's Institute of Technology Ladkrabang
+* Jan 2015- Apr 2019:Research Assistant
+  * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
+  * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
 
 Projects
@@ -53,7 +56,12 @@ Honors & awards
 * Student Travel Award at International Conference on Intelligent Informatics and BioMedical Sciences 2017, OIST, Japan
 * Best Presentation Award at Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
 * Fully Funded Ph.D scholarship at KMITL by AUN-SEED/NET and JICA
-  
+
+Research Laboratories
+======
+* Digital Signals and Systems Lab, KMITL
+* Computer Systems Lab II, KMITL
+
 Volunteer
 ======
 * Reviewer
