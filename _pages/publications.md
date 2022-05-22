@@ -6,8 +6,8 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=3Bi3itoAAAAJ&vi ew_op=list_works&sortby=pubdate)<br/>
 
 # Peer-Reviewed Journals
-[Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset](https://doi.org/10.3390/app112210528)__
-Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng,Applied Sciences, 2021, 11(22), p.10528.__
+[Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset](https://doi.org/10.3390/app112210528)\
+Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng,Applied Sciences, 2021, 11(22), p.10528.\
 Download [here](https://doi.org/10.3390/app112210528)<br/>
 
 [Hybrid Learning of Hand-Crafted and Deep-Activated Features Using Particle Swarm Optimization and Optimized Support Vector Machine for Tuberculosis Screening](https://doi.org/10.3390/app10175749)__
