@@ -43,6 +43,10 @@ Download [here](https://ieeexplore.ieee.org/document/8802562/)<br/>
 Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.__
 Download [here](https://ieeexplore.ieee.org/document/8609935/) <br/>
 
+[Classification of Cotton Wool Spots Using Principal Components Analysis and Support Vector Machine](https://ieeexplore.ieee.org/document/8609962)
+Syna Sreng, Noppadol Maneerat, Khin Yadanar Win, Kazuhiko Hamamoto, Ronakorn Panjaphongse, “,” 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.
+Download [here](https://ieeexplore.ieee.org/document/8609962)
+
 [Artificial neural network based nuclei segmentation on cytology pleural effusion images](https://ieeexplore.ieee.org/document/8279748)__
 Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, “,” 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS); 11/2017.__
 Download [here](https://ieeexplore.ieee.org/document/8279748)<br/>
@@ -59,10 +63,14 @@ Download [here](https://scholar.google.co.th/citations?view_op=view_citation&hl=
 Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Second International Workshop on Pattern Recognition; 06/2017.__
 Download [here](https://doi.org/10.1117/12.2280807)<br/>
 
+[Automated segmentation of cell nuclei in cytology pleural fluid images using OTSU thresholding](https://ieeexplore.ieee.org/document/7904925)
+Khin Yadanar Win, Somsak Choomchuay, “,” 2017 International Conference on Digital Arts, Media and Technology (ICDAMT); 01/2017.
+Download [here](https://ieeexplore.ieee.org/document/7904925)
 
-(6)	Khin Yadanar Win, Somsak Choomchuay, “Automated segmentation of cell nuclei in cytology pleural fluid images using OTSU thresholding,” 2017 International Conference on Digital Arts, Media and Technology (ICDAMT); 01/2017, DOI:10.1109/ICDAMT.2017.7904925
-(7)	Khin Yadanar Win, S. Choomchuay, “Detection of Optic Disc and Exudates in Retinal Images,” AUN/SEED Conf. for Computer and Information Engineering (2016); 10/2016
-(8)	Khin Yadanar Win, Somsak Choomchuay, “Automated detection of exudates using histogram analysis for Digital Retinal Images,” 2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS); 10/2016, DOI:10.1109/ISPACS.2016.7824768.
-(9)	Syna Sreng, Noppadol Maneerat, Khin Yadanar Win, Kazuhiko Hamamoto, Ronakorn Panjaphongse, “Classification of Cotton Wool Spots Using Principal Components Analysis and Support Vector Machine,” 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018, DOI:10.1109/BMEiCON.2018.8609962
-(10)	
+[Detection of Optic Disc and Exudates in Retinal Images](https://scholar.google.co.th/citations?view_op=view_citation&hl=en&user=3Bi3itoAAAAJ&sortby=pubdate&citation_for_view=3Bi3itoAAAAJ:qjMakFHDy7sC)
+Khin Yadanar Win, S. Choomchuay, AUN/SEED Conf. for Computer and Information Engineering (2016); 10/2016
+Download [here](https://scholar.google.co.th/citations?view_op=view_citation&hl=en&user=3Bi3itoAAAAJ&sortby=pubdate&citation_for_view=3Bi3itoAAAAJ:qjMakFHDy7sC)
 
+[Automated detection of exudates using histogram analysis for Digital Retinal Images](https://ieeexplore.ieee.org/document/7824768)
+Khin Yadanar Win, Somsak Choomchuay,2016 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS); 10/2016.
+Download [here](https://ieeexplore.ieee.org/document/7824768)
