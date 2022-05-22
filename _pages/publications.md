@@ -39,7 +39,11 @@ Download [here](https://www.ascspublications.org/product/supervised-learning-bas
 H. T. Zaw, N. Maneerat and Khin Yadanar Win,2019 5th International Conference on Engineering, Applied Sciences and Technology (ICEAST), Luang Prabang, Laos, 2019, pp. 1-4.
 Download [here](https://ieeexplore.ieee.org/document/8802562/)<br/>
 
-(1)	Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, “Suitable Supervised Machine Learning Techniques For Malignant Mesothelioma Diagnosis,” 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018, DOI:10.1109/BMEiCON.2018.8609935
+[Suitable Supervised Machine Learning Techniques For Malignant Mesothelioma Diagnosis](https://ieeexplore.ieee.org/document/8609935/)
+Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.
+Download [here](https://ieeexplore.ieee.org/document/8609935/) <br/>
+
+
 (2)	Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, “Artificial neural network based nuclei segmentation on cytology pleural effusion images,” 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS); 11/2017, DOI:10.1109/ICIIBMS.2017.8279748
 (3)	Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, “K mean clustering based automated segmentation of overlapping cell nuclei in pleural effusion cytology images,” 2017 International Conference on Advanced Technologies for Communications (ATC); 10/2017, DOI:10.1109/ATC.2017.8167630
 (4)	Khin Yadanar Win, S.Choomchuay, K. Hamamoto, “Features Extraction from Segmented Cell Nuclei of Cytological Smear Images for Detection of Cancer Cells in Pleural Fluid,”  07/2017
