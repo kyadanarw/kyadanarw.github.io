@@ -7,14 +7,3 @@ venue: "University of Yangon, Department of Computer Science"
 date: May-December,2019
 location: "Yangon, Myanmar"
 ---
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
