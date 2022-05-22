@@ -26,11 +26,6 @@ Work experience
 * Jan 2015- Apr 2019: Teaching and Research Assistant
   * King Mongkut's Institute of Technology Ladkrabang
 <br/>
-  
-Volunteer
-======
-* Reviewer , IEEE Acess, Computer Methods in Biomechanics and Biomedical Enginnering : Imaging and Visualization
-* Three Rs Education Campaign, 2012
 
 Projects
 ======
@@ -49,20 +44,19 @@ Projects
   * Detection of Infectious Diases on Chest X-rays
      * AI for detection of Tuberculosis, 2019 - Present
      * * COVID-19 detectionusing Deep learning, 2021-Present <br/>
+     
+Honors & awards
+======
+* Best Paper Award (Journal of Bioinformatics and Neurosciences (JBINS), Applied Science and Computer Science Publications)
+* Student Travel Award at International Conference on Intelligent Informatics and BioMedical Sciences 2017, OIST, Japan
+* Best Presentation Award at Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
+* Fully Funded Ph.D scholarship at KMITL by AUN-SEED/NET and JICA
+  
+Volunteer
+======
+* Reviewer
+    * IEEE Access
+    * Computer Methods in Biomechanics and Biomedical Enginnering : Imaging and Visualization
+    * International Journal of Imaging Systems and Technology
+* Three Rs Education Campaign, 2012
 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
