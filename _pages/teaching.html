@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Peer-Reviewed Journals
-* Course: Undergraduate Course <br/>
-* Department: Department of Computer Science<br/>
-* University: University of Yangon<br/>
-* Date : May-December,2019<br/>
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
