@@ -29,3 +29,7 @@ Download [here](https://doi.org/10.1155/2018/9240389)<br/>
 [Detection and Classification of Overlapping Cell Nuclei in Cytology Effusion Images Using a Double-Strategy Random Forest](https://doi.org/10.3390/app8091608)<br/>
 <p align="justify">Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat,Applied Sciences, 09/2018; 8(9):1608.</p>
 Download [here](https://doi.org/10.3390/app8091608)<br/>
+
+<p align="justify">[Supervised Learning-based Nuclei Segmentation on Cytology Pleural Effusion Images with Artificial Neuron Network](https://www.ascspublications.org/product/supervised-learning-based-nuclei-segmentation-on-cytology-pleural-effusion-images-with-artificial-neural-network/)<br/>
+Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, Applied Science and Computer Science Publications, Vol.3, Issue 3, December 2017, pp. 104-110.</p>
+Download [here](https://www.ascspublications.org/product/supervised-learning-based-nuclei-segmentation-on-cytology-pleural-effusion-images-with-artificial-neural-network/)
