@@ -27,7 +27,7 @@ Work experience
   * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: Design and Conduct the independent research and mentor undergraduate and graduate students
 <br/>
-* June 2019- December 2019: Part-time Lecture
+* June 2019- December 2019: Part-time Lecturer
   * [University of Yangon](https://www.uy.edu.mm/)
   * Duties Included: Teaching Image processing and Machine Learning, and supervising students' research projects
 <br/>
