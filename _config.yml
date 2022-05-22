@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Khin Yadanar Win"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher@KMITL, Computer Vision Researcher, AI and Data Science Enthusiast"
+  bio              : "Postdoctoral Researcher, Computer Vision Researcher, AI and Data Science Enthusiast"
   location         : "Bangkok, Thailand"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  linkedin         :"https://www.linkedin.com/in/khin-yadanar-win-23606a131/"
+  linkedin         : "https://www.linkedin.com/in/khin-yadanar-win-23606a131/"
   orcid            : "https://orcid.org/0000-0001-7155-9475"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
