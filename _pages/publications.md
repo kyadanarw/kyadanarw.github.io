@@ -5,7 +5,7 @@ author_profile: true
 ---
 You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=3Bi3itoAAAAJ&vi ew_op=list_works&sortby=pubdate)<br/>
 
-# Peer-Reviewed Journals
+## Peer-Reviewed Journals
 [Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset](https://doi.org/10.3390/app112210528)\
 Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng,Applied Sciences, 2021, 11(22), p.10528.\
 Download [here](https://doi.org/10.3390/app112210528)<br/>
@@ -34,7 +34,7 @@ Download [here](https://doi.org/10.3390/app8091608)<br/>
 Khin Yadanar Win, Somsak Choomchuay, Kazuhiko Hamamoto, Manasanan Raveesunthornkiat, Applied Science and Computer Science Publications, Vol.3, Issue 3, December 2017, pp. 104-110.\
 Download [here](https://www.ascspublications.org/product/supervised-learning-based-nuclei-segmentation-on-cytology-pleural-effusion-images-with-artificial-neural-network/)<br/>
 
-# International Conference Proceedings 
+## International Conference Proceedings 
 [Brain tumor detection based on Naïve Bayes Classification](https://ieeexplore.ieee.org/document/8802562/)\
 H. T. Zaw, N. Maneerat and Khin Yadanar Win,2019 5th International Conference on Engineering, Applied Sciences and Technology (ICEAST), Luang Prabang, Laos, 2019, pp. 1-4.\
 Download [here](https://ieeexplore.ieee.org/document/8802562/)<br/>
