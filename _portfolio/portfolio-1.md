@@ -1,6 +1,6 @@
 ---
-title: "[Detection of COVID-19 on Chest X-rays with Transfer Learning and Ensemble Learning](https://github.com/kyadanarw/Ensemble-Deep-Learning-for-the-Detection-of-COVID-19-in-Unbalanced-Chest-X-ray-Dataset)"
-excerpt: "The goal of this project is to classify the COVID-19 from normal and pneumonia on Chest X-rays in unbalanced data distribution setting.1<br/><img src='https://github.com/kyadanarw/Ensemble-Deep-Learning-for-the-Detection-of-COVID-19-in-Unbalanced-Chest-X-ray-Dataset/blob/DeepLearning/Images/applsci-11-10528-g014-550.jpg'>"
+title: "[Detection of COVID-19 on Chest X-rays with Transfer Learning and Ensemble Learning]"
+excerpt: "The goal of this project is to classify the COVID-19 from normal and pneumonia on Chest X-rays in unbalanced data distribution setting.[Github Repository] (https://github.com/kyadanarw/Ensemble-Deep-Learning-for-the-Detection-of-COVID-19-in-Unbalanced-Chest-X-ray-Dataset)<br/><img src='https://github.com/kyadanarw/Ensemble-Deep-Learning-for-the-Detection-of-COVID-19-in-Unbalanced-Chest-X-ray-Dataset/blob/DeepLearning/Images/applsci-11-10528-g014-550.jpg'>"
 collection: portfolio
 ---
 
