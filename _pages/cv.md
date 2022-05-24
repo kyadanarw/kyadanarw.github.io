@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Personal Information
+Personal Data
 ======
 * Name: Khin Yadanar Win
 * Nationality: Myanmar
@@ -23,15 +23,15 @@ Education
 
 Work experience
 ======
-* Aug 2019 to Present : Postdoctoral Researcher
+* Aug. 2019 - present : Postdoctoral Researcher
   * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: Design and Conduct the independent research and mentor undergraduate and graduate students
 <br/>
-* June 2019- December 2019: Part-time Lecturer
+* Jun. 2019 - Dec. 2019: Part-time Lecturer
   * [University of Yangon](https://www.uy.edu.mm/)
   * Duties Included: Teaching Image processing and Machine Learning, and supervising students' research projects
 <br/>
-* Jan 2015- Apr 2019:Research Assistant
+* Jan. 2015 - Apr. 2019:Research Assistant
   * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
