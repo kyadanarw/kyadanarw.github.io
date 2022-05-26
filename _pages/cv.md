@@ -43,11 +43,11 @@ Skills
   * Hands-on Experience of Image Processing, Medical Image Analysis, Machine Learning and Deep Learning 
   * In-depth Knowledge of Image Processing, Computer Vision, Medical Image Analysis, Machine Learning, Deep Learning and Data Analysis
   * Proficient Use of Python and MATLAB Programming
-  * Elementary Use of C++, Java and HTML Langauages
+  * Elementary Use of Visual Basic(VB), C++, Java and HTML Langauages
 
 ### Technical Skills
    * Tools:
-     * Python, Matlab, Anaconda, SQL, AWS, Git
+     * Python, MATLAB, Anaconda, SQL, AWS, Git
    * Packages: 
       * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, Pytorch, BeautifulSoup, JuypterNotebook
 
