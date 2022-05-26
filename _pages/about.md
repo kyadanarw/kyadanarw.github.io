@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/6.1.1/css/font-awesome.min.css">
 
 <p align="justify">My name is Khin Yadanar Win. I am a postdoctoral researcher in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang.</p>
 
