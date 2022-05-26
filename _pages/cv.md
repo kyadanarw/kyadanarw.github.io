@@ -38,18 +38,19 @@ Work experience
 
 Key Skills
 ======
-  * Python Programming\
-  * Matlab Programming\
-  * Image Processing\
-  * Machine Learning and Deep Learning\
-   * Medical Image Analysis\
-   * Data Analysis\
+  * Python Programming
+  * Matlab Programming
+  * Image Processing
+  * Machine Learning and Deep Learning
+  * Computer Vision
+  * Medical Image Analysis
+  * Data Analysis
 
 Technical Skills
 ======
-   * Tools: Python, Matlab, Anaconda, SQL,AWS, Git\
-   * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook\
-   * Development: Data Analysis, Model Traning and Testing\
+   * Tools: Python, Matlab, Anaconda, SQL,AWS, Git
+   * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
+   * Development: Data Analysis, Model Traning and Testing
    * 
 Projects
 ======
