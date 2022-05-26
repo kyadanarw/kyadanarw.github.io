@@ -36,33 +36,21 @@ Work experience
   * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
 
-Skills
+Key Skills
 ======
-<table border=0>
- <tr>
-    <td><b style="font-size:30px">Keys Skills</b></td>
-    <td><b style="font-size:30px">Technical Skills</b></td>
- </tr>
- <tr>
-    <td>
-      * Python Programming\
-      * Matlab Programming\
-      * Image Processing\
-      * Machine Learning and Deep Learning\
-      * Medical Image Analysis\
-      * Data Analysis\
-   </td>
-    <td>
-      * Tools: Python, Matlab, Anaconda, SQL, Git\
-      * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook\
-      * Development: Data Analysis, Model Traning and Testing\
-      
-   </td>
- </tr>
-</table>
+  * Python Programming\
+  * Matlab Programming\
+  * Image Processing\
+  * Machine Learning and Deep Learning\
+   * Medical Image Analysis\
+   * Data Analysis\
 
-
-
+Technical Skills
+======
+   * Tools: Python, Matlab, Anaconda, SQL,AWS, Git\
+   * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook\
+   * Development: Data Analysis, Model Traning and Testing\
+   * 
 Projects
 ======
 * Software Development
