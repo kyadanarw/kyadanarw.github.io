@@ -16,7 +16,7 @@ Personal Data
 Education
 ======
 * Ph.D in Electrical Engineering
-  * Faculty of Engineering, [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2019
+  * Faculty of Engineering, [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/) and [Tokai University](https://www.u-tokai.ac.jp/), 2019
 * B.Sc (Hons.) in Computer Science
   * Department of Computer Science, [Dagon University](https://www.dagonuniversity.edu.mm/), 2013
 
@@ -69,6 +69,7 @@ Research Laboratories
 ======
 * Digital Signals and Systems Lab, KMITL
 * Computer Systems Lab II, KMITL
+* HAMAMOTO Lab, Tokai University
 
 Volunteer
 ======
