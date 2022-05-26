@@ -36,6 +36,21 @@ Work experience
   * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
 
+Key Skills
+======
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Keys Skills</b></td>
+    <td><b style="font-size:30px">Technical Skills</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+
+
 Projects
 ======
 * Software Development
