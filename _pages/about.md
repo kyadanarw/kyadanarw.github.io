@@ -17,7 +17,6 @@ redirect_from:
 
 
 
-<i class="fa-solid fa-envelope"></i> 
-
+<i class="fa-brands fa-github"></i> 
 
 I am on these social platforms. Email is the best way to reach me.
