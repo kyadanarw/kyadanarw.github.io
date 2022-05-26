@@ -48,10 +48,13 @@ Key Skills
 
 Technical Skills
 ======
-   * Tools: Python, Matlab, Anaconda, SQL,AWS, Git
-   * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
-   * Development: Data Analysis, Model Traning and Testing
-   * 
+   * Tools:
+     * Python, Matlab, Anaconda, SQL,AWS, Git
+   * Packages: 
+      * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
+   * Development: 
+      * Data Analysis, Model Traning and Testing
+
 Projects
 ======
 * Software Development
