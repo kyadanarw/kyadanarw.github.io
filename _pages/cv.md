@@ -39,21 +39,21 @@ Work experience
 Skills
 ======
 ### Key Skills
-  * Python Programming
-  * Matlab Programming
+  * Analytical and Research Skills
   * Image Processing
   * Machine Learning and Deep Learning
   * Computer Vision
   * Medical Image Analysis
   * Data Analysis
+  * Python Programming
+  * Matlab Programming
+
 
 ### Technical Skills
    * Tools:
-     * Python, Matlab, Anaconda, SQL,AWS, Git
+     * Python, Matlab, Anaconda, SQL, AWS, Git
    * Packages: 
-      * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
-   * Development: 
-      * Data Analysis, Model Traning and Testing
+      * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, Pytorch, BeautifulSoup, JuypterNotebook
 
 ### Language
   * Native : Burmese
@@ -77,7 +77,7 @@ Projects
   * Detection of Infectious Diases on Chest X-rays
      * AI for detection of Tuberculosis, 2019 - Present
      * COVID-19 detection using Deep learning, 2021-Present <br/>
-     
+    
 Honors & awards
 ======
 * Best Paper Award 
@@ -88,6 +88,17 @@ Honors & awards
    * Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
 * Fully Funded Ph.D scholarship at KMITL
    * AUN-SEED/NET and JICA
+     
+Courses & Certificates
+======
+* Mathmetics for Machine Learning Speicalization, Online Course of Imperal College London
+* Machine Learning Speicalization, Online Course of Standford University
+* Deep Learning Specialization, Onlien Course of Deeplearning.AI
+* AI for Medicine Specialization, Online Course of Deeplearning.AI
+* Machine Learning for Production (MLOps) Specialization, Coursera
+* Data Scientist with Python, DataCamp
+* Python Basic Certificate, HackerRank
+* Problem Solving Intermediate, HackerRank
 
 Research Laboratories
 ======
