@@ -38,7 +38,7 @@ Work experience
 
 Skills
 ======
-<table border="0">
+<table border=0>
  <tr>
     <td><b style="font-size:30px">Keys Skills</b></td>
     <td><b style="font-size:30px">Technical Skills</b></td>
