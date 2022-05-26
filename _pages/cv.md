@@ -36,8 +36,9 @@ Work experience
   * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
 
-Key Skills
+Skills
 ======
+### Key Skills
   * Python Programming
   * Matlab Programming
   * Image Processing
@@ -46,14 +47,17 @@ Key Skills
   * Medical Image Analysis
   * Data Analysis
 
-Technical Skills
-======
+### Technical Skills
    * Tools:
      * Python, Matlab, Anaconda, SQL,AWS, Git
    * Packages: 
       * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
    * Development: 
       * Data Analysis, Model Traning and Testing
+### Language
+  * Native : Burmese
+  * Proficient : English
+  * Elementary : Thai
 
 Projects
 ======
