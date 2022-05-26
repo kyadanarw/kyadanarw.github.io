@@ -89,7 +89,7 @@ Courses & Certificates
 ======
 * Mathmetics for Machine Learning Speicalization, Online Course of Imperal College London
 * Machine Learning Speicalization, Online Course of Standford University
-* Deep Learning Specialization, Onlien Course of Deeplearning.AI
+* Deep Learning Specialization, Online Course of Deeplearning.AI
 * AI for Medicine Specialization, Online Course of Deeplearning.AI
 * Machine Learning for Production (MLOps) Specialization, Coursera
 * Data Scientist with Python, DataCamp
