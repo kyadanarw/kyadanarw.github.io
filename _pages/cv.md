@@ -45,17 +45,17 @@ Skills
  </tr>
  <tr>
     <td>
-      * Python Programming
-      * Matlab Programming
-      * Image Processing
-      * Machine Learning and Deep Learning
-      * Medical Image Analysis
-      * Data Analysis
+      * Python Programming\
+      * Matlab Programming\
+      * Image Processing\
+      * Machine Learning and Deep Learning\
+      * Medical Image Analysis\
+      * Data Analysis\
    </td>
     <td>
-      * Tools: Python, Matlab, Anaconda, SQL, Git
-      * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
-      * Development: Data Analysis, Model Traning and Testing
+      * Tools: Python, Matlab, Anaconda, SQL, Git\
+      * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook\
+      * Development: Data Analysis, Model Traning and Testing\
       
    </td>
  </tr>
