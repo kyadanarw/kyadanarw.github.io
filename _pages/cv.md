@@ -36,7 +36,7 @@ Work experience
   * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
 <br/>
 
-Key Skills
+Skills
 ======
 <table border="0">
  <tr>
@@ -44,7 +44,7 @@ Key Skills
     <td><b style="font-size:30px">Technical Skills</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>kkkkk ...</td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
