@@ -54,6 +54,7 @@ Skills
       * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
    * Development: 
       * Data Analysis, Model Traning and Testing
+
 ### Language
   * Native : Burmese
   * Proficient : English
