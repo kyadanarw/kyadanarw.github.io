@@ -39,15 +39,11 @@ Work experience
 Skills
 ======
 ### Key Skills
-  * Analytical and Research Skills
-  * Image Processing
-  * Machine Learning and Deep Learning
-  * Computer Vision
-  * Medical Image Analysis
-  * Data Analysis
-  * Python Programming
-  * Matlab Programming
-
+  * Highly Analytical and Research Skills
+  * Hands-on Experience of Image Processing, Medical Image Analysis, Machine Learning and Deep Learning 
+  * In-depth Knowledge of Image Processing, Computer Vision, Medical Image Analysis, Machine Learning, Deep Learning and Data Analysis
+  * Proficient Use of Python and MATLAB Programming
+  * Elementary Use of C++, Java and HTML Langauages
 
 ### Technical Skills
    * Tools:
