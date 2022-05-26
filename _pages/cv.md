@@ -44,8 +44,20 @@ Skills
     <td><b style="font-size:30px">Technical Skills</b></td>
  </tr>
  <tr>
-    <td>kkkkk ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>
+      * Python Programming
+      * Matlab Programming
+      * Image Processing
+      * Machine Learning and Deep Learning
+      * Medical Image Analysis
+      * Data Analysis
+   </td>
+    <td>
+      * Tools: Python, Matlab, Anaconda, SQL, Git
+      * Packages: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, BeautifulSoup, JuypterNotebook
+      * Development: Data Analysis, Model Traning and Testing
+      
+   </td>
  </tr>
 </table>
 
