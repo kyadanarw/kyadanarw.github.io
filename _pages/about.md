@@ -14,7 +14,9 @@ redirect_from:
 
 <p align="justify">Previously I obtained Doctor of Engineering from King Monkut's Institute of Technology Ladkraband, where I worked with Dr. Somsak Choomchuay, Dr. Noppadol Maneerat and Dr. Hazuhiko HAMAMOTO. Before that I obtained my Bachelor’s degree in Computer Science from Dagon University.</p> <br/>
 
-![git](https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/GitHub-Icon.png)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 <br/>
 I am on these social platforms. Email is the best way to reach me.
