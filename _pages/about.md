@@ -16,5 +16,5 @@ redirect_from:
 
 ![Semantic](https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/GitHub-Icon.png)
 
-
+<br/>
 I am on these social platforms. Email is the best way to reach me.
