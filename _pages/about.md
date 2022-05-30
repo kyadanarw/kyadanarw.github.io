@@ -16,7 +16,7 @@ redirect_from:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/GitHub-Icon.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 <br/>
 
