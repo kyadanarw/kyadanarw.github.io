@@ -14,7 +14,7 @@ redirect_from:
 
 <p align="justify">Previously I obtained Doctor of Engineering from King Monkut's Institute of Technology Ladkraband, where I worked with Dr. Somsak Choomchuay, Dr. Noppadol Maneerat and Dr. Hazuhiko HAMAMOTO. Before that I obtained my Bachelor’s degree in Computer Science from Dagon University.</p> <br/>
 
-<img src="https://i.stack.imgur.com/gVE0j.png" width="30 height="30">
+<img src="https://i.stack.imgur.com/gVE0j.png" width="30" height="30">
 
 I am on these social platforms. Email is the best way to reach me.
 
