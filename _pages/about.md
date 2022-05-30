@@ -16,7 +16,7 @@ redirect_from:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)&nbsp;[![GitHub](https://i.stack.imgur.com/CiAfy.png) ResearchGate](https://github.com/)&nbsp;[![Email](https://i.stack.imgur.com/wszAd.png) Email](https://github.com/)&nbsp;[![ORcid](https://i.stack.imgur.com/Au4eV.png) ORCID](https://github.com/)&nbsp;[![GoogleScholar](https://i.stack.imgur.com/Rfgco.png) GoogleScholar](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)&nbsp;[![Researgate](https://i.stack.imgur.com/a49kg.png) ResearchGate](https://github.com/)&nbsp;[![Email](https://i.stack.imgur.com/wszAd.png) Email](https://github.com/)&nbsp;[![ORcid](https://i.stack.imgur.com/Au4eV.png) ORCID](https://github.com/)&nbsp;[![GoogleScholar](https://i.stack.imgur.com/Rfgco.png) GoogleScholar](https://github.com/)
 
 
 <br/>
