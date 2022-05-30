@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Khin Yadanar Win"
-  avatar           : "https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/photo_2022-05-30_20-32-24.jpg"
+  avatar           : ![profilepic](https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/photo_2022-05-30_20-32-24.jpg")
   bio              : "Postdoc Fellow@KMITL, Highly Experienced in Medical Image Analysis and Machine Learning"
   location         : "Bangkok, Thailand"
   employer         :
