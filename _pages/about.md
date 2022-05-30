@@ -16,10 +16,9 @@ redirect_from:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)&nbsp;[![GitHub](https://i.stack.imgur.com/CiAfy.png) ResearchGate](https://github.com/)
+
 
 <br/>
 
 I am on these social platforms. Email is the best way to reach me.
-
-<img src="https://github.com/kyadanarw/kyadanarw.github.io/blob/master/images/GitHub-Icon.png" alt="Image description">
