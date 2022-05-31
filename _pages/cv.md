@@ -12,6 +12,7 @@ Personal Data
 ======
 * Name: Khin Yadanar Win
 * Nationality: Myanmar
+* Email: kyadanarw@gmail.com
 
 Education
 ======
