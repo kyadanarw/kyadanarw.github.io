@@ -44,7 +44,7 @@ Skills
   * Hands-on Experience in Image Processing, Medical Image Analysis, Machine Learning, and Deep Learning 
   * In-depth Knowledge of Image Processing, Computer Vision, Medical Image Analysis, Machine Learning, Deep Learning and Data Analysis
   * Proficient Use of Python and MATLAB Programming
-  * Elementary Use of Visual Basic(VB),SQL, C++, Java, and HTML Languages
+  * Elementary Use of Visual Basic(VB), SQL, C++, Java, and HTML Languages
 
 ### Technical Skills
    * Tools:
@@ -83,7 +83,7 @@ Honors & awards
    * International Conference on Intelligent Informatics and BioMedical Sciences 2017, OIST, Japan
 * Best Presentation Award
    * Second International Workshop on Pattern Recognition, IWPR 2017, Nanyang Technological University
-* Fully Funded Ph.D scholarship at KMITL
+* Fully Funded Ph.D. scholarship at KMITL
    * AUN-SEED/NET and JICA
      
 Courses & Certificates
@@ -92,10 +92,9 @@ Courses & Certificates
 * Machine Learning Speicalization, Online Course of Standford University
 * Deep Learning Specialization, Online Course of Deeplearning.AI
 * AI for Medicine Specialization, Online Course of Deeplearning.AI
-* Machine Learning for Production (MLOps) Specialization, Coursera
 * Data Scientist with Python, DataCamp
 * Python Basic Certificate, HackerRank
-* Problem Solving Intermediate, HackerRank
+* Problem Solving Certificate, HackerRank
 
 Research Laboratories
 ======
