@@ -16,7 +16,7 @@ Personal Data
 
 Education
 ======
-* Ph.D in Electrical Engineering
+* Ph.D. in Electrical Engineering
   * Faculty of Engineering, [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/) and [Tokai University](https://www.u-tokai.ac.jp/), 2019
 * B.Sc (Hons.) in Computer Science
   * Department of Computer Science, [Dagon University](https://www.dagonuniversity.edu.mm/), 2013
@@ -24,31 +24,31 @@ Education
 
 Work experience
 ======
-* Aug. 2019 - present : Postdoctoral Researcher
+* Aug. 2019 - present: Postdoctoral Researcher
   * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: Design and Conduct the independent research and mentor undergraduate and graduate students
 <br/>
 * Jun. 2019 - Dec. 2019: Part-time Lecturer
   * [University of Yangon](https://www.uy.edu.mm/)
-  * Duties Included: Teaching Image processing and Machine Learning, and supervising students' research projects
+  * Duties Included: Teach Image processing and Machine Learning, and supervise students' research projects
 <br/>
 * Jan. 2015 - Apr. 2019:Research Assistant
   * [King Mongkut's Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
-  * Duties Included: Assist the supervisor with data collection and analysis and assist with ordering and procurement of supplies and equipment 
+  * Duties Included: Assist the supervisor with data collection and analysis
 <br/>
 
 Skills
 ======
 ### Key Skills
   * Highly Analytical and Research Skills
-  * Hands-on Experience of Image Processing, Medical Image Analysis, Machine Learning and Deep Learning 
+  * Hands-on Experience in Image Processing, Medical Image Analysis, Machine Learning, and Deep Learning 
   * In-depth Knowledge of Image Processing, Computer Vision, Medical Image Analysis, Machine Learning, Deep Learning and Data Analysis
   * Proficient Use of Python and MATLAB Programming
-  * Elementary Use of Visual Basic(VB), C++, Java and HTML Langauages
+  * Elementary Use of Visual Basic(VB),SQL, C++, Java, and HTML Languages
 
 ### Technical Skills
    * Tools:
-     * Python, MATLAB, Anaconda, SQL, AWS, Git
+     * Python, MATLAB, Anaconda, SQL, Git
    * Packages: 
       * Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Scikit-Image, Scipy, Scikit-learn, Tensorflow, Keras, Pytorch, BeautifulSoup, JuypterNotebook
 
@@ -60,7 +60,7 @@ Skills
 Projects
 ======
 * Software Development
-  * Point of Sale Software for Car Battery Store Mangament, undergraduate Second Year's Project, 2010
+  * Point of Sale Software for Car Battery Shop, undergraduate Second Year's Project, 2010
   * Mini Export Import Software, undergraduate final year project, 2012 <br/>
 * Signal Processing 
   * Sleep Analysis using EEG and ECG signals, 2015-2016 <br/>
@@ -71,7 +71,7 @@ Projects
      * Multi-class Multi-label classification of Ocular Diseases, 2021-Present <br/>
   * Detection of Cancerous Cells on Miscroscopic Images
      * Algorithms for Detection of Cancerous Cells on Miscoscope Images of Pleural Effusion, 2017-2019 <br/>
-  * Detection of Infectious Diases on Chest X-rays
+  * Detection of Infectious Diaseases on Chest X-rays
      * AI for detection of Tuberculosis, 2019 - Present
      * COVID-19 detection using Deep learning, 2021-Present <br/>
     
